@@ -1,1 +1,1 @@
-# smart-india-hackathon SE A
+# smart-india-hackathon 
